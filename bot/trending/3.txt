@@ -1,0 +1,2913 @@
+{
+  "results": [
+    {
+      "facet_counts": [
+        {
+          "counts": [
+            {
+              "count": 196612,
+              "highlighted": "Male",
+              "value": "Male"
+            },
+            {
+              "count": 94962,
+              "highlighted": "FemalePOV",
+              "value": "FemalePOV"
+            },
+            {
+              "count": 85803,
+              "highlighted": "Female",
+              "value": "Female"
+            },
+            {
+              "count": 70945,
+              "highlighted": "MalePOV",
+              "value": "MalePOV"
+            },
+            {
+              "count": 60682,
+              "highlighted": "Dominant",
+              "value": "Dominant"
+            },
+            {
+              "count": 60206,
+              "highlighted": "Romantic",
+              "value": "Romantic"
+            },
+            {
+              "count": 46365,
+              "highlighted": "English",
+              "value": "English"
+            },
+            {
+              "count": 42814,
+              "highlighted": "Drama",
+              "value": "Drama"
+            },
+            {
+              "count": 37863,
+              "highlighted": "Anime",
+              "value": "Anime"
+            },
+            {
+              "count": 37745,
+              "highlighted": "Fantasy",
+              "value": "Fantasy"
+            },
+            {
+              "count": 36466,
+              "highlighted": "Action",
+              "value": "Action"
+            },
+            {
+              "count": 35469,
+              "highlighted": "Adventure",
+              "value": "Adventure"
+            },
+            {
+              "count": 33398,
+              "highlighted": "Horror",
+              "value": "Horror"
+            },
+            {
+              "count": 28845,
+              "highlighted": "Gentle Dom",
+              "value": "Gentle Dom"
+            },
+            {
+              "count": 28208,
+              "highlighted": "LGBTQ+",
+              "value": "LGBTQ+"
+            },
+            {
+              "count": 27910,
+              "highlighted": "Original Character",
+              "value": "Original Character"
+            },
+            {
+              "count": 26634,
+              "highlighted": "Low Quality",
+              "value": "Low Quality"
+            },
+            {
+              "count": 25337,
+              "highlighted": "Friend",
+              "value": "Friend"
+            },
+            {
+              "count": 24123,
+              "highlighted": "Wholesome",
+              "value": "Wholesome"
+            },
+            {
+              "count": 23709,
+              "highlighted": "Multiple Characters",
+              "value": "Multiple Characters"
+            },
+            {
+              "count": 22843,
+              "highlighted": "Scenario",
+              "value": "Scenario"
+            },
+            {
+              "count": 21148,
+              "highlighted": "Size Difference",
+              "value": "Size Difference"
+            },
+            {
+              "count": 20284,
+              "highlighted": "Magic",
+              "value": "Magic"
+            },
+            {
+              "count": 19625,
+              "highlighted": "Gothic",
+              "value": "Gothic"
+            },
+            {
+              "count": 19153,
+              "highlighted": "Fictional Media",
+              "value": "Fictional Media"
+            },
+            {
+              "count": 17935,
+              "highlighted": "MLM",
+              "value": "MLM"
+            },
+            {
+              "count": 17112,
+              "highlighted": "Mature",
+              "value": "Mature"
+            },
+            {
+              "count": 15657,
+              "highlighted": "Partner",
+              "value": "Partner"
+            },
+            {
+              "count": 15328,
+              "highlighted": "Game",
+              "value": "Game"
+            },
+            {
+              "count": 15149,
+              "highlighted": "Comedy",
+              "value": "Comedy"
+            },
+            {
+              "count": 13507,
+              "highlighted": "Muscle",
+              "value": "Muscle"
+            },
+            {
+              "count": 12287,
+              "highlighted": "Villain",
+              "value": "Villain"
+            },
+            {
+              "count": 11722,
+              "highlighted": "Submissive",
+              "value": "Submissive"
+            },
+            {
+              "count": 11362,
+              "highlighted": "RPG",
+              "value": "RPG"
+            },
+            {
+              "count": 10426,
+              "highlighted": "Sadistic",
+              "value": "Sadistic"
+            },
+            {
+              "count": 10393,
+              "highlighted": "Monster",
+              "value": "Monster"
+            },
+            {
+              "count": 10299,
+              "highlighted": "Anthro",
+              "value": "Anthro"
+            },
+            {
+              "count": 10287,
+              "highlighted": "Age Play",
+              "value": "Age Play"
+            },
+            {
+              "count": 10169,
+              "highlighted": "Married Partner",
+              "value": "Married Partner"
+            },
+            {
+              "count": 10136,
+              "highlighted": "Hero",
+              "value": "Hero"
+            },
+            {
+              "count": 10094,
+              "highlighted": "Supernatural",
+              "value": "Supernatural"
+            },
+            {
+              "count": 10013,
+              "highlighted": "Sci-Fi",
+              "value": "Sci-Fi"
+            },
+            {
+              "count": 8504,
+              "highlighted": "Yandere",
+              "value": "Yandere"
+            },
+            {
+              "count": 7576,
+              "highlighted": "Real",
+              "value": "Real"
+            },
+            {
+              "count": 7464,
+              "highlighted": "Mystery",
+              "value": "Mystery"
+            },
+            {
+              "count": 7463,
+              "highlighted": "Historical",
+              "value": "Historical"
+            },
+            {
+              "count": 7083,
+              "highlighted": "Furry",
+              "value": "Furry"
+            },
+            {
+              "count": 6980,
+              "highlighted": "Roommate",
+              "value": "Roommate"
+            },
+            {
+              "count": 6970,
+              "highlighted": "Non-English",
+              "value": "Non-English"
+            },
+            {
+              "count": 6551,
+              "highlighted": "Tsundere",
+              "value": "Tsundere"
+            },
+            {
+              "count": 5986,
+              "highlighted": "Mythological",
+              "value": "Mythological"
+            },
+            {
+              "count": 5725,
+              "highlighted": "WLW",
+              "value": "WLW"
+            },
+            {
+              "count": 5683,
+              "highlighted": "Corruption",
+              "value": "Corruption"
+            },
+            {
+              "count": 3961,
+              "highlighted": "Giant",
+              "value": "Giant"
+            },
+            {
+              "count": 3903,
+              "highlighted": "Non-Binary",
+              "value": "Non-Binary"
+            },
+            {
+              "count": 3852,
+              "highlighted": "Switch",
+              "value": "Switch"
+            },
+            {
+              "count": 3808,
+              "highlighted": "Mind Control",
+              "value": "Mind Control"
+            },
+            {
+              "count": 3719,
+              "highlighted": "Omegaverse",
+              "value": "Omegaverse"
+            },
+            {
+              "count": 3333,
+              "highlighted": "Simulator",
+              "value": "Simulator"
+            },
+            {
+              "count": 3120,
+              "highlighted": "Bondage",
+              "value": "Bondage"
+            },
+            {
+              "count": 2912,
+              "highlighted": "Cheating",
+              "value": "Cheating"
+            },
+            {
+              "count": 2737,
+              "highlighted": "MILF",
+              "value": "MILF"
+            },
+            {
+              "count": 2691,
+              "highlighted": "AI Assistant",
+              "value": "AI Assistant"
+            },
+            {
+              "count": 2638,
+              "highlighted": "Smell",
+              "value": "Smell"
+            },
+            {
+              "count": 2590,
+              "highlighted": "Tomboy",
+              "value": "Tomboy"
+            },
+            {
+              "count": 2546,
+              "highlighted": "Nature",
+              "value": "Nature"
+            },
+            {
+              "count": 2495,
+              "highlighted": "Chubby",
+              "value": "Chubby"
+            },
+            {
+              "count": 2396,
+              "highlighted": "Transformation",
+              "value": "Transformation"
+            },
+            {
+              "count": 2097,
+              "highlighted": "Femboy",
+              "value": "Femboy"
+            },
+            {
+              "count": 1940,
+              "highlighted": "Trans",
+              "value": "Trans"
+            },
+            {
+              "count": 1751,
+              "highlighted": "Servant",
+              "value": "Servant"
+            },
+            {
+              "count": 1692,
+              "highlighted": "Fat",
+              "value": "Fat"
+            },
+            {
+              "count": 1631,
+              "highlighted": "Crossdressing",
+              "value": "Crossdressing"
+            },
+            {
+              "count": 1023,
+              "highlighted": "Pregnant",
+              "value": "Pregnant"
+            },
+            {
+              "count": 250,
+              "highlighted": "Futanari",
+              "value": "Futanari"
+            },
+            {
+              "count": 178,
+              "highlighted": "Feet",
+              "value": "Feet"
+            },
+            {
+              "count": 90,
+              "highlighted": "Inflation",
+              "value": "Inflation"
+            },
+            {
+              "count": 15,
+              "highlighted": "NTR",
+              "value": "NTR"
+            },
+            {
+              "count": 13,
+              "highlighted": "Inanimate",
+              "value": "Inanimate"
+            },
+            {
+              "count": 7,
+              "highlighted": "Slave",
+              "value": "Slave"
+            },
+            {
+              "count": 2,
+              "highlighted": "Specified POV",
+              "value": "Specified POV"
+            }
+          ],
+          "field_name": "tags",
+          "sampled": false,
+          "stats": {
+            "total_values": 81
+          }
+        },
+        {
+          "counts": [
+            {
+              "count": 43345,
+              "highlighted": "ru",
+              "value": "ru"
+            },
+            {
+              "count": 33108,
+              "highlighted": "de",
+              "value": "de"
+            },
+            {
+              "count": 22568,
+              "highlighted": "fr",
+              "value": "fr"
+            },
+            {
+              "count": 21645,
+              "highlighted": "hi",
+              "value": "hi"
+            },
+            {
+              "count": 16293,
+              "highlighted": "es",
+              "value": "es"
+            },
+            {
+              "count": 13984,
+              "highlighted": "pl",
+              "value": "pl"
+            },
+            {
+              "count": 13462,
+              "highlighted": "it",
+              "value": "it"
+            },
+            {
+              "count": 11799,
+              "highlighted": "pt",
+              "value": "pt"
+            },
+            {
+              "count": 11228,
+              "highlighted": "zh",
+              "value": "zh"
+            },
+            {
+              "count": 10085,
+              "highlighted": "tr",
+              "value": "tr"
+            },
+            {
+              "count": 10042,
+              "highlighted": "ko",
+              "value": "ko"
+            },
+            {
+              "count": 9512,
+              "highlighted": "ar",
+              "value": "ar"
+            },
+            {
+              "count": 7564,
+              "highlighted": "ja",
+              "value": "ja"
+            },
+            {
+              "count": 7,
+              "highlighted": "en",
+              "value": "en"
+            }
+          ],
+          "field_name": "translated_languages",
+          "sampled": false,
+          "stats": {
+            "total_values": 14
+          }
+        },
+        {
+          "counts": [
+            {
+              "count": 119688,
+              "highlighted": "minimal",
+              "value": "minimal"
+            },
+            {
+              "count": 113084,
+              "highlighted": "low",
+              "value": "low"
+            },
+            {
+              "count": 54562,
+              "highlighted": "mid",
+              "value": "mid"
+            },
+            {
+              "count": 21575,
+              "highlighted": "high",
+              "value": "high"
+            },
+            {
+              "count": 2040,
+              "highlighted": "very",
+              "value": "very"
+            }
+          ],
+          "field_name": "definition_size_category",
+          "sampled": false,
+          "stats": {
+            "total_values": 5
+          }
+        }
+      ],
+      "found": 338300,
+      "hits": [
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/6abb2dc26660a6aada6e8f663c985e66.jpg",
+            "character_id": "346b1efc-bcd1-4d29-8134-efb95da17eef",
+            "creator_user_id": "kp:37987850e9fb41bda58050ea7a6ef440",
+            "creator_username": "tamaki_is_my_type",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Mha hot springs",
+            "num_messages": 39198,
+            "tags": [
+              "Male",
+              "Multiple Characters",
+              "Anime",
+              "FemalePOV",
+              "MalePOV",
+              "Female"
+            ],
+            "title": "Boys go flying to the girls side and something SPICY happens",
+            "token_count": 513,
+            "translated_languages": [
+              "de",
+              "fr",
+              "hi",
+              "it",
+              "ru",
+              "ja",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/1dc6eab4dc13bdce9ac0a2fb6517ee1f.png",
+            "character_id": "f958bf8d-ff3e-4665-8ada-442c0817dce9",
+            "creator_user_id": "kp:a24755061730430a8e185025bff1613a",
+            "creator_username": "stellaisobsessed",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "August Marr",
+            "num_messages": 63081,
+            "rating_score": 0.857143,
+            "tags": [
+              "MalePOV",
+              "LGBTQ+",
+              "Corruption",
+              "Dominant",
+              "Horror",
+              "Muscle",
+              "Original Character",
+              "Size Difference",
+              "Yandere"
+            ],
+            "title": "You’re supposed to scream!?♥︎| The broken one behind the mask and the one who didn’t run<3",
+            "token_count": 1037,
+            "translated_languages": [
+              "de",
+              "fr",
+              "es",
+              "ar",
+              "hi",
+              "it",
+              "ru",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/2be04a1dd213938884d2ea0b4fddc5d8.png",
+            "character_id": "04da9ac4-e09d-4a45-990d-d409f09ecc2d",
+            "creator_user_id": "kp:ea3ee35b30f34e43bb729a5e5c786858",
+            "creator_username": "bladeofapollo",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Charles Bashard",
+            "num_messages": 37387,
+            "tags": [
+              "LGBTQ+",
+              "MalePOV",
+              "Size Difference",
+              "Male",
+              "Gentle Dom",
+              "Giant",
+              "MLM",
+              "Muscle",
+              "Romantic"
+            ],
+            "title": "The Duke wants you instead of the princess [MLM]",
+            "token_count": 1449,
+            "translated_languages": [
+              "ru",
+              "fr",
+              "de",
+              "hi",
+              "it",
+              "ko",
+              "pl",
+              "es"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/a457b3299119b9e46e88964fe3054162.jpg",
+            "character_id": "bf5b51b7-5193-4760-8648-43e636ed5ba7",
+            "creator_user_id": "kp:cc399d14fa5047588a97c204d4973c99",
+            "creator_username": "isthismazie",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Emperor Tai Zhong",
+            "num_messages": 26367,
+            "tags": [
+              "Muscle",
+              "Male",
+              "Crossdressing",
+              "Mystery",
+              "Mythological",
+              "Romantic"
+            ],
+            "title": "forbidden love but enemies to lovers at the same time",
+            "token_count": 438,
+            "translated_languages": [
+              "de",
+              "hi",
+              "ru",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/2efa44c7a51bf1bb95dc54844a58f3bb.jpg",
+            "character_id": "30abfefb-db4c-48ff-a3be-e43fe3198dfc",
+            "creator_user_id": "kp:dbbdef0fceb744ab97c0e7c29bcd49e1",
+            "creator_username": "vaisbart",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Kim Junhee",
+            "num_messages": 22664,
+            "tags": [
+              "LGBTQ+",
+              "MalePOV",
+              "Male",
+              "Romantic",
+              "Comedy",
+              "Gentle Dom",
+              "MLM",
+              "Size Difference"
+            ],
+            "title": "No one will ever look at me on this dating show...",
+            "token_count": 781,
+            "translated_languages": [
+              "de",
+              "ru",
+              "fr",
+              "hi",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/79a2c4841e58368c8a806879f9495159.jpg",
+            "character_id": "6f1d003a-57e6-4ae3-a106-8b7ec7d5ae49",
+            "creator_user_id": "kp:460c4eaa18bd48ed8e1bb13a7f5a286d",
+            "creator_username": "avqera",
+            "definition_size_category": "low",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Rhett",
+            "num_messages": 185683,
+            "rating_score": 0.826633,
+            "tags": [
+              "Male",
+              "FemalePOV"
+            ],
+            "title": "your mechanic husband",
+            "token_count": 495,
+            "translated_languages": [
+              "ru",
+              "de",
+              "hi",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/b53e0a523f91d63895ae9fc1b0a1b0c2.webp",
+            "character_id": "95f71b42-109e-4ea3-8737-04b406a3d333",
+            "creator_user_id": "kp:9137dcaea1234fadb8eb3d5ae68b99f0",
+            "creator_username": "pokemonmasters",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Ame Shi-Yomi",
+            "num_messages": 505677,
+            "rating_score": 0.84375,
+            "tags": [
+              "Female",
+              "Anthro",
+              "Furry",
+              "Roommate",
+              "Switch"
+            ],
+            "title": "The Yakuza Daughter",
+            "token_count": 1286,
+            "translated_languages": [
+              "ru",
+              "de",
+              "pl",
+              "fr",
+              "es",
+              "ar",
+              "pt",
+              "hi",
+              "tr",
+              "ja",
+              "it",
+              "zh",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/a3ae1aa2f2004a03733de80b6c239427.jpg",
+            "character_id": "f108aa93-9c61-43ff-84f1-c08bb7bc3933",
+            "creator_user_id": "kp:cdcf90eefec44785a014a362f8093d93",
+            "creator_username": "skyz00n",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Ace Vale",
+            "num_messages": 70624,
+            "tags": [
+              "Dominant",
+              "Drama",
+              "MLM",
+              "Male",
+              "Yandere",
+              "Mature",
+              "MalePOV",
+              "Romantic"
+            ],
+            "title": "𝐂𝐞𝐨 𝐱 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐛𝐨𝐲 \n Read the personality bl/Mlm/ romance/ danger",
+            "token_count": 918,
+            "translated_languages": [
+              "ru",
+              "fr",
+              "de",
+              "hi",
+              "it",
+              "pl",
+              "es",
+              "tr",
+              "ar",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/ddafd76d-5b12-457c-b601-d890592ff8e4.webp",
+            "character_id": "282bc028-b481-49af-9bdf-2ce9fb323b7e",
+            "creator_user_id": "kp:27bc90afbd57403eacdf5e41e60fe6ee",
+            "creator_username": "lysen",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Belle",
+            "num_messages": 395144,
+            "rating_score": 0.821429,
+            "tags": [
+              "Female",
+              "MalePOV",
+              "Partner"
+            ],
+            "title": "Your newly wed blind wife",
+            "token_count": 591,
+            "translated_languages": [
+              "hi",
+              "de",
+              "es",
+              "fr",
+              "it",
+              "tr",
+              "ru",
+              "ar",
+              "pl",
+              "ja",
+              "pt",
+              "ko",
+              "zh"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/e8543ee101196bae5e39503e6bb07e37.jpg",
+            "character_id": "636f9c95-330b-4ec8-8152-786a92122318",
+            "creator_user_id": "kp:613a126bf6d1401ca40912f31e411f48",
+            "creator_username": "devilishnaya",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "Archduke Vincent",
+            "num_messages": 110814,
+            "rating_score": 0.359375,
+            "tags": [
+              "Dominant",
+              "Male",
+              "FemalePOV",
+              "Married Partner",
+              "Historical",
+              "Horror",
+              "Villain",
+              "Drama"
+            ],
+            "title": "You've lost to him. || Arranged marriage || Enemies to lovers || M4F",
+            "token_count": 1015,
+            "translated_languages": [
+              "de",
+              "ru",
+              "hi",
+              "es",
+              "fr",
+              "pl",
+              "tr"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/aa31119e40b3c10ab4aaf17dd76b9f2e.jpg",
+            "character_id": "c28a0ad3-cc12-4c71-b72c-4d4d2ad80640",
+            "creator_user_id": "kp:0a7cbc575ff7425196f9675a2437a067",
+            "creator_username": "urownlexii",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Megumi Fushiguro",
+            "num_messages": 73585,
+            "tags": [
+              "Male",
+              "Anime",
+              "FemalePOV",
+              "MalePOV",
+              "Wholesome"
+            ],
+            "title": "😐 - 𝔓𝔦𝔠𝔨 𝔪𝔢 𝔤𝔦𝔯𝔩",
+            "token_count": 1238,
+            "translated_languages": [
+              "hi",
+              "ru",
+              "pl",
+              "de",
+              "it",
+              "fr",
+              "es"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/ca92d759-a566-40e5-b93c-ffe8e7d17c85.webp",
+            "character_id": "956e3093-7a4b-4349-bfb6-b5d1fa091fd9",
+            "creator_user_id": "kp:86a2d4932ab34bd992be75cb99f2df0b",
+            "creator_username": "matthew4567",
+            "definition_size_category": "low",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Stefanie",
+            "num_messages": 147410,
+            "rating_score": 0.56044,
+            "tags": [
+              "Female",
+              "English",
+              "Friend",
+              "Gentle Dom",
+              "Partner",
+              "Real",
+              "Romantic",
+              "Submissive",
+              "Wholesome",
+              "Age Play",
+              "MILF"
+            ],
+            "title": "A smoking hot mother and teachress at grammar school.",
+            "token_count": 567,
+            "translated_languages": [
+              "it",
+              "de",
+              "hi",
+              "pt",
+              "fr",
+              "es",
+              "tr",
+              "pl",
+              "ko",
+              "ru",
+              "ar"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/4cd1c1883ef4fd0feda8619555b1435d.jpg",
+            "character_id": "cfe0f007-2de9-4fab-b2e1-56ee45b8e9a5",
+            "creator_user_id": "kp:55da8c2262194f0faa5216565de855d9",
+            "creator_username": "luluboss42",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Osiris Dain",
+            "num_messages": 54001,
+            "rating_score": 1,
+            "tags": [
+              "Fictional Media",
+              "FemalePOV",
+              "Male",
+              "Dominant",
+              "Age Play",
+              "Drama",
+              "Fantasy",
+              "Monster",
+              "Mythological",
+              "Sadistic",
+              "Supernatural"
+            ],
+            "title": "God of Death is hunting down the Angel {{user}}... |🪽❤️",
+            "token_count": 593,
+            "translated_languages": [
+              "ru",
+              "zh",
+              "fr",
+              "de",
+              "hi",
+              "ko",
+              "pl",
+              "es"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/7c39286acf13a1bcf4dbe23e7230dfe2.jpg",
+            "character_id": "d2b4257a-dda2-4041-b077-87471dd15815",
+            "creator_user_id": "kp:07cb5328b865478597119c9b8cac56d7",
+            "creator_username": "luverenyeager",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "marcus 🐈‍⬛",
+            "num_messages": 442504,
+            "rating_score": 0.909091,
+            "tags": [
+              "Dominant",
+              "Male",
+              "Romantic",
+              "LGBTQ+",
+              "English",
+              "Femboy",
+              "MLM",
+              "Omegaverse",
+              "Sadistic",
+              "Size Difference"
+            ],
+            "title": "Your Cold Master.",
+            "token_count": 344,
+            "translated_languages": [
+              "ru",
+              "de",
+              "fr",
+              "ar",
+              "hi",
+              "it",
+              "ko",
+              "pl",
+              "zh",
+              "ja",
+              "pt",
+              "tr",
+              "es"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/87cd48db3c17e3a418b1d1c499d5f94a.png",
+            "character_id": "60116f44-dbeb-4870-b5ff-7487969c725f",
+            "creator_user_id": "kp:61360b3ea67e42309eda19b81424b99b",
+            "creator_username": "applejuiiice",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Charlotte",
+            "num_messages": 280960,
+            "rating_score": 0.733333,
+            "tags": [
+              "Female",
+              "MalePOV",
+              "FemalePOV",
+              "Yandere",
+              "Submissive",
+              "Original Character",
+              "English"
+            ],
+            "title": "Rich classmate obsessed with you",
+            "token_count": 942,
+            "translated_languages": [
+              "hi",
+              "fr",
+              "es",
+              "de",
+              "ru",
+              "pl",
+              "ar",
+              "tr",
+              "ja",
+              "it",
+              "pt",
+              "ko",
+              "zh"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/4fe847e62317d5a3b7c50cff4ef7554a.jpg",
+            "character_id": "8f31bb3d-aef8-42b2-b96d-28e9d983a05e",
+            "creator_user_id": "kp:34e40dd53385482986df6e6b4f38dabc",
+            "creator_username": "renbabyy",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Kade Mercer",
+            "num_messages": 321331,
+            "rating_score": 0.867688,
+            "tags": [
+              "Male",
+              "FemalePOV",
+              "Dominant"
+            ],
+            "title": "He speaks in silence, kills without hesitation, and loves like it’s the only thing keeping him human",
+            "token_count": 854,
+            "translated_languages": [
+              "fr",
+              "de",
+              "hi",
+              "ru",
+              "pl",
+              "es",
+              "it",
+              "tr",
+              "ja",
+              "ar",
+              "pt",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/fd53b53eef2e00f8a436db1c0459daa4.jpg",
+            "character_id": "d6fdffa5-7be2-4741-bfe9-403af47ac7b2",
+            "creator_user_id": "kp:d767e94473114224a58ca3c96d62899f",
+            "creator_username": "kittensneaa",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "Ludwig",
+            "num_messages": 173615,
+            "rating_score": 0.901316,
+            "tags": [
+              "Male",
+              "FemalePOV",
+              "Romantic"
+            ],
+            "title": "Valentine’s Day 💝🍫",
+            "token_count": 770,
+            "translated_languages": [
+              "fr",
+              "de",
+              "hi",
+              "ru",
+              "pl",
+              "es",
+              "ar",
+              "it",
+              "tr",
+              "zh",
+              "ja",
+              "ko",
+              "pt"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/4bb17a77ce40b7eed038d99f1a955c92.jpg",
+            "character_id": "124ea39b-cd01-470f-9eea-409bdb57dad5",
+            "creator_user_id": "kp:a061c6ade3de4f19ab172cfa0521aa02",
+            "creator_username": "sundaykid",
+            "definition_size_category": "low",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Real Life RPG",
+            "num_messages": 7928408,
+            "rating_score": 0.787934,
+            "tags": [
+              "FemalePOV",
+              "MalePOV",
+              "LGBTQ+",
+              "Multiple Characters",
+              "RPG",
+              "Male",
+              "Female"
+            ],
+            "title": "Here you can make your dreams come true ❤️",
+            "token_count": 383,
+            "translated_languages": [
+              "de",
+              "ko",
+              "ru",
+              "hi",
+              "fr",
+              "pl",
+              "es",
+              "tr",
+              "pt",
+              "ar",
+              "it",
+              "ja",
+              "zh"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/18603a478b4a41d70c1c9670a6e5da18.jpg",
+            "character_id": "c2d6a495-4cda-4568-84b8-1ca8638f16dc",
+            "creator_user_id": "kp:b0132344db1b4ab6aaae495c59e2baf7",
+            "creator_username": "imakenosound",
+            "definition_size_category": "low",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Simon 'Ghost' Riley",
+            "num_messages": 35668,
+            "tags": [
+              "MalePOV",
+              "Action",
+              "Male",
+              "Adventure",
+              "English",
+              "Horror",
+              "Mature"
+            ],
+            "title": "★Mission failed. [Enemy user]",
+            "token_count": 654,
+            "translated_languages": [
+              "zh",
+              "de",
+              "ru",
+              "pl",
+              "hi",
+              "ko",
+              "fr",
+              "it",
+              "tr"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/30535a923b32f9f3cc2fe1970b2f4c27.png",
+            "character_id": "5105c17d-8a71-49d7-a3e8-7179bc21ff38",
+            "creator_user_id": "kp:dfdacd05ae6b44ee96ee1c807b12b2e3",
+            "creator_username": "r84aaron",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Mara Ellison",
+            "num_messages": 236037,
+            "rating_score": 0.723926,
+            "tags": [
+              "MalePOV",
+              "Female",
+              "Real",
+              "Scenario",
+              "Submissive",
+              "Wholesome"
+            ],
+            "title": "You have to share a sleeping cabin on a train that’s become stranded in a mountain avalanche",
+            "token_count": 959,
+            "translated_languages": [
+              "de",
+              "fr",
+              "es",
+              "hi",
+              "it",
+              "pl",
+              "ru",
+              "ar",
+              "pt",
+              "tr",
+              "zh",
+              "ja"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/43d19e300ce71bce8eb70c331aed37c2.jpg",
+            "character_id": "91fc09f7-df1b-4c65-a91f-2cd712217c8b",
+            "creator_user_id": "kp:9250d8c3004e4158b6a2ec92a1da7ce0",
+            "creator_username": "boostergold1",
+            "definition_size_category": "minimal",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Peyton Parker",
+            "num_messages": 43752,
+            "tags": [
+              "Female",
+              "MalePOV",
+              "FemalePOV",
+              "Drama",
+              "Fictional Media",
+              "Hero",
+              "Partner",
+              "RPG",
+              "Romantic",
+              "Wholesome"
+            ],
+            "title": "Your girlfriend comes home after a long night as Spider-Woman",
+            "token_count": 262,
+            "translated_languages": [
+              "de",
+              "fr",
+              "es",
+              "ar",
+              "hi",
+              "it",
+              "tr"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/0322e6ff653dda01aa5fa622b00d9ee1.jpg",
+            "character_id": "5db350cb-08fb-4b69-bf96-77d88d1b8b18",
+            "creator_user_id": "kp:51e5c265e3354ae786483be9baf65882",
+            "creator_username": "isdlldldld",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Zayn Carter",
+            "num_messages": 17126,
+            "tags": [
+              "Male",
+              "FemalePOV",
+              "Multiple Characters",
+              "Age Play",
+              "Mature",
+              "Monster"
+            ],
+            "title": "He helps you, enough to let you alive.",
+            "token_count": 360,
+            "translated_languages": [
+              "fr",
+              "de",
+              "hi",
+              "ru"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/dd34dee44438106257c94dd880a16123.jpg",
+            "character_id": "83830db7-a941-4001-a16a-af198c318fdc",
+            "creator_user_id": "kp:b22ed9efdcc74cc2be67c8fb9643f714",
+            "creator_username": "itscassiex",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Ezra Dalton",
+            "num_messages": 285754,
+            "rating_score": 0.788546,
+            "tags": [
+              "Male",
+              "MalePOV",
+              "MLM",
+              "Trans",
+              "Dominant",
+              "Gentle Dom",
+              "LGBTQ+",
+              "Size Difference",
+              "Roommate",
+              "Romantic",
+              "Transformation",
+              "Friend"
+            ],
+            "title": "🏳️‍⚧️ | You (accidentally) walked in on your roommate changing—and saw TransTape on his chest",
+            "token_count": 1767,
+            "translated_languages": [
+              "de",
+              "fr",
+              "es",
+              "ar",
+              "it",
+              "ru",
+              "tr",
+              "pl",
+              "hi",
+              "pt",
+              "zh",
+              "ja",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/53bc85db50fcada0f74971abdc0ed2e1.png",
+            "character_id": "442c6985-16e4-4904-b6c6-f964421dd9ae",
+            "creator_user_id": "kp:fc8c1aa2d0384ba0b7c209b4d92792b9",
+            "creator_username": "lhvzkm",
+            "definition_size_category": "minimal",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "Zane",
+            "num_messages": 92624,
+            "tags": [
+              "Male",
+              "Cheating"
+            ],
+            "title": "You pushed him and his mistress on there pool",
+            "token_count": 263,
+            "translated_languages": [
+              "fr",
+              "de",
+              "hi",
+              "it",
+              "ru",
+              "ja"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/ee511729ba5fdd3a9f5048b14c69debc.jpg",
+            "character_id": "3a2b9a42-240b-4804-8e27-8d2f33fda1b7",
+            "creator_user_id": "kp:34e40dd53385482986df6e6b4f38dabc",
+            "creator_username": "renbabyy",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Dorian Cooper",
+            "num_messages": 262269,
+            "rating_score": 0.754237,
+            "tags": [
+              "Male",
+              "FemalePOV"
+            ],
+            "title": "She’s the only thing I can’t control—and the only thing I’d kill to protect.",
+            "token_count": 927,
+            "translated_languages": [
+              "fr",
+              "hi",
+              "de",
+              "ru",
+              "es",
+              "it",
+              "pt",
+              "tr",
+              "pl",
+              "ar",
+              "ja",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/c14a01e276741337f30271c8604e459e.jpg",
+            "character_id": "2d7e8e97-1da8-4944-8c1d-63c7fe9f71aa",
+            "creator_user_id": "kp:8de0f91c0ed84bf98fb051d4784fa59a",
+            "creator_username": "ipaint4fun",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Alaric Lazare",
+            "num_messages": 22588,
+            "tags": [
+              "FemalePOV",
+              "Male",
+              "Fantasy",
+              "Sadistic",
+              "Dominant",
+              "Horror",
+              "Magic",
+              "Mythological",
+              "Villain"
+            ],
+            "title": "“This will hurt less if you don’t move” - vampire x hunter",
+            "token_count": 889,
+            "translated_languages": [
+              "de",
+              "hi",
+              "ru",
+              "pl",
+              "fr",
+              "es",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/1701845e1f750f504b20d9cd9508d361.jpg",
+            "character_id": "32a25e6c-40b6-4756-9e70-463615d872b0",
+            "creator_user_id": "kp:45a1fc01639f4b8580f82a3909702f1c",
+            "creator_username": "Bentle",
+            "definition_size_category": "minimal",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "Cardan",
+            "num_messages": 88116,
+            "rating_score": 0.84127,
+            "tags": [
+              "Dominant",
+              "Anime",
+              "Male",
+              "Horror",
+              "Age Play"
+            ],
+            "title": "Your childhood best friend. But now your arranged husband-?!",
+            "token_count": 164,
+            "translated_languages": [
+              "fr",
+              "es",
+              "de",
+              "ar",
+              "hi",
+              "it",
+              "ru",
+              "tr",
+              "ko",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/5e4b2ba8d616cd1296c6a9940687c0e5.jpg",
+            "character_id": "7e147945-78dd-4b8d-a7bf-bc7d2eb93971",
+            "creator_user_id": "kp:1bfdf04c10154df68ff4238a551034f2",
+            "creator_username": "jadeshadows",
+            "definition_size_category": "high",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "MHA rehab angst.",
+            "num_messages": 1053381,
+            "rating_score": 0.804124,
+            "tags": [
+              "Male",
+              "Female",
+              "Multiple Characters",
+              "Hero",
+              "Villain"
+            ],
+            "title": "(Made an ACTUAL accurate Rehab Angst, credits go to the goat)",
+            "token_count": 1628,
+            "translated_languages": [
+              "de",
+              "fr",
+              "es",
+              "pl",
+              "hi",
+              "ru",
+              "ar",
+              "it",
+              "ko",
+              "tr",
+              "ja",
+              "pt"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/b0995783-1ba6-48bf-8577-1cad8b56b929.webp",
+            "character_id": "425dae80-c465-4ab3-9562-eba988cd7a3f",
+            "creator_user_id": "kp:ed04ab09c87149b885974b4dd20c9db0",
+            "creator_username": "oldschoolstyle",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Zara",
+            "num_messages": 32138,
+            "tags": [
+              "Female",
+              "MalePOV",
+              "Anime",
+              "Comedy",
+              "English",
+              "Real",
+              "Romantic",
+              "Scenario",
+              "Original Character",
+              "Wholesome"
+            ],
+            "title": "Blind date organised by your friends (long intro + high quality character) #SpicyValentine",
+            "token_count": 786,
+            "translated_languages": [
+              "hi",
+              "ru",
+              "fr",
+              "es",
+              "de",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/7237830dbc7dde3ec73f457a31b3c575.jpg",
+            "character_id": "a945480b-daa2-4a60-b87f-2404ce4b14c5",
+            "creator_user_id": "kp:4b4cb675c5bf4c69abf02720badaa8c8",
+            "creator_username": "nanami809",
+            "definition_size_category": "minimal",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Hiroki",
+            "num_messages": 36057,
+            "tags": [
+              "Male",
+              "Anime",
+              "Chubby",
+              "Corruption",
+              "Drama",
+              "Fat",
+              "Muscle",
+              "Romantic"
+            ],
+            "title": "Muscular guy X Chubby user",
+            "token_count": 278,
+            "translated_languages": [
+              "ru",
+              "de",
+              "fr",
+              "es",
+              "hi",
+              "tr",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/1d853cd656deec190ef5fa1e0d54e05b.webp",
+            "character_id": "40ed68d7-3668-4883-a612-0fed2627d4e2",
+            "creator_user_id": "kp:ce7935a65b9341a9b1d260c2ec66859c",
+            "creator_username": "honeysuperstar11",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "name": "Yuji Hinato",
+            "num_messages": 84982,
+            "tags": [
+              "Dominant",
+              "Mature",
+              "Male",
+              "MalePOV",
+              "FemalePOV",
+              "Scenario",
+              "Sadistic",
+              "Drama",
+              "Romantic"
+            ],
+            "title": "Kidnapped by the mafia boss",
+            "token_count": 1064,
+            "translated_languages": [
+              "ru",
+              "hi",
+              "fr",
+              "pl",
+              "de",
+              "it",
+              "es",
+              "tr"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/8ab1c0b3d8c6835a0899ccff77e50784.jpg",
+            "character_id": "765c4563-3f61-4043-a447-acd7f14aece8",
+            "creator_user_id": "kp:b6bd970e3f8e4786a5fb97b4c725f088",
+            "creator_username": "bbyanagl",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Phoenix Remi",
+            "num_messages": 199274,
+            "rating_score": 0.822844,
+            "tags": [
+              "Male",
+              "FemalePOV",
+              "Comedy",
+              "Partner",
+              "Married Partner"
+            ],
+            "title": "you have been married for 50 years",
+            "token_count": 1251,
+            "translated_languages": [
+              "ru",
+              "fr",
+              "de",
+              "hi",
+              "tr",
+              "pl",
+              "zh",
+              "es",
+              "ar",
+              "it",
+              "pt",
+              "ko",
+              "ja"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/24a723eca91553efcbbe7268803c02ea.jpg",
+            "character_id": "a10283e2-3480-4a49-8e15-0f084047a18d",
+            "creator_user_id": "kp:2e99e350afe24d89b7ce6dff63b9ff68",
+            "creator_username": "duckundercover",
+            "definition_size_category": "minimal",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Solarius",
+            "num_messages": 101687,
+            "rating_score": 0.860215,
+            "tags": [
+              "Original Character",
+              "Mystery",
+              "FemalePOV",
+              "Fantasy",
+              "Size Difference",
+              "Age Play",
+              "Mythological",
+              "Romantic"
+            ],
+            "title": "🌑☀️|The moons irritates him.",
+            "token_count": 281,
+            "translated_languages": [
+              "ru",
+              "pt",
+              "es",
+              "hi",
+              "fr",
+              "de",
+              "it",
+              "tr",
+              "pl",
+              "ar",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/8559a73b19e72939eac166f1726df5f3.jpg",
+            "character_id": "6578e14c-ae70-476d-a5f0-c0c8c2acc439",
+            "creator_user_id": "kp:a6af348c03fc4848a192b363740bf7f1",
+            "creator_username": "nurmala",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Kevin Gemstone",
+            "num_messages": 45547,
+            "rating_score": 0.413043,
+            "tags": [
+              "Dominant",
+              "Cheating",
+              "Male",
+              "FemalePOV",
+              "Married Partner",
+              "Comedy",
+              "Romantic"
+            ],
+            "title": "He was confused as to why his wife had accepted the divorce so happily",
+            "token_count": 671,
+            "translated_languages": [
+              "de",
+              "hi",
+              "ru",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/c67e231654610491079175ba8e744b79.jpg",
+            "character_id": "987018a2-9456-4ea3-965f-0a5f37f5ee07",
+            "creator_user_id": "kp:6e21cbf13c624c138ec013cd26e156b5",
+            "creator_username": "linmcl",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Yukari Takahashi",
+            "num_messages": 374067,
+            "rating_score": 0.510381,
+            "tags": [
+              "Female",
+              "Romantic",
+              "Drama"
+            ],
+            "title": "The girl you like locks you in the freezer",
+            "token_count": 1136,
+            "translated_languages": [
+              "de",
+              "hi",
+              "it",
+              "tr",
+              "fr",
+              "es",
+              "ar",
+              "ru",
+              "pl",
+              "ja",
+              "ko",
+              "pt"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/c5d4a1ddbd1960472ca79ef288a71723.jpg",
+            "character_id": "16a5a962-653b-4821-acc1-0a4240de9373",
+            "creator_user_id": "kp:537defcd84d14c80a2a4b8b9d0f228a7",
+            "creator_username": "loverzzza",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "arden cole",
+            "num_messages": 1031711,
+            "rating_score": 0.86,
+            "tags": [
+              "Male",
+              "FemalePOV"
+            ],
+            "title": "loud guitarist neighbor",
+            "token_count": 843,
+            "translated_languages": [
+              "de",
+              "fr",
+              "it",
+              "ru",
+              "tr",
+              "pl",
+              "es",
+              "ar",
+              "hi",
+              "pt",
+              "ja",
+              "ko",
+              "zh"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/3f236832707a23c7086990626b179627.jpg",
+            "character_id": "04b08fff-e0cb-4a7c-8f32-5bf9ffc830e4",
+            "creator_user_id": "kp:6fe3dfee18be4eaeba00edc15cafde47",
+            "creator_username": "shiaun",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Kairo",
+            "num_messages": 63114,
+            "rating_score": 0.990196,
+            "tags": [
+              "Male",
+              "FemalePOV",
+              "MalePOV",
+              "MLM",
+              "LGBTQ+",
+              "Gentle Dom",
+              "Size Difference"
+            ],
+            "title": "l✧\"When in Closed Doors he's yours\"(MLM, MLW, MLA Any POV)✧l",
+            "token_count": 753,
+            "translated_languages": [
+              "de",
+              "ru",
+              "zh",
+              "es",
+              "it"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/6f9e6734-437c-4581-bae8-7a6f4ea1b56a.webp",
+            "character_id": "16cbba1b-2742-4bf5-ad85-fe102cb104ee",
+            "creator_user_id": "kp:b6af252251c44f11a1f3cc9e91fb91eb",
+            "creator_username": "evgenius0",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Miss liza",
+            "num_messages": 33718,
+            "tags": [
+              "Age Play",
+              "Female",
+              "Married Partner",
+              "Mature",
+              "Romantic"
+            ],
+            "title": "My friend's married mother , whom I fall in love with",
+            "token_count": 636,
+            "translated_languages": [
+              "de",
+              "hi",
+              "pl",
+              "fr",
+              "ko",
+              "it"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/fc8ef3d07a8559af058b876bff872d28.jpg",
+            "character_id": "f4fb3fff-b632-4825-a244-9d4b67bd039a",
+            "creator_user_id": "kp:4f5a6767176e457ca9f1634469928955",
+            "creator_username": "lloarwai72",
+            "definition_size_category": "mid",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "Shoji Mizuhara 🎀",
+            "num_messages": 93508,
+            "rating_score": 0.611702,
+            "tags": [
+              "Male",
+              "LGBTQ+",
+              "MalePOV",
+              "Age Play",
+              "MLM",
+              "Size Difference",
+              "Submissive"
+            ],
+            "title": "brat figure skater | BL • MLM | age gap",
+            "token_count": 944,
+            "translated_languages": [
+              "ru",
+              "fr",
+              "de",
+              "hi",
+              "pl",
+              "es",
+              "it",
+              "pt",
+              "tr"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/2f735d4b14e8ed4a98fa5e4c45df0278.jpg",
+            "character_id": "5833c668-0436-40a2-b440-3637324e3540",
+            "creator_user_id": "kp:8ee1d875fdce4080bde399be73aef506",
+            "creator_username": "maddeee05",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Professor",
+            "num_messages": 192348,
+            "rating_score": 0.837838,
+            "tags": [
+              "FemalePOV",
+              "Male",
+              "Dominant",
+              "English",
+              "Romantic"
+            ],
+            "title": "Slow burn teacher x student relation.",
+            "token_count": 814,
+            "translated_languages": [
+              "hi",
+              "ru",
+              "fr",
+              "de",
+              "tr",
+              "ko",
+              "pl",
+              "it",
+              "es"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/abf8a4e1d4f78edbee52f032e1591ff5.jpg",
+            "character_id": "5b1cc638-278d-4ebc-b99c-5f7f46caf915",
+            "creator_user_id": "kp:c08ecdfedadc44c394a5d83f43d46d64",
+            "creator_username": "lolazoo",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Cameron",
+            "num_messages": 85228,
+            "rating_score": 0.771429,
+            "tags": [
+              "Male",
+              "MalePOV",
+              "FemalePOV",
+              "Comedy",
+              "Drama",
+              "English",
+              "Friend",
+              "Gentle Dom",
+              "Original Character",
+              "Romantic",
+              "Scenario"
+            ],
+            "title": "You left and came back…",
+            "token_count": 607,
+            "translated_languages": [
+              "hi",
+              "fr",
+              "de",
+              "pl",
+              "es",
+              "ar",
+              "it",
+              "ru",
+              "tr",
+              "ja",
+              "ko"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/a4c13678d726ca50bf3358ba9623fda7.webp",
+            "character_id": "fabf7b3e-a4eb-45c5-addb-a44d185bfc19",
+            "creator_user_id": "kp:02788001684244fa865c5b4ad7fe84d6",
+            "creator_username": "magica1gir1",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Maxen Squire",
+            "num_messages": 93853,
+            "rating_score": 0.79845,
+            "tags": [
+              "Male",
+              "MalePOV",
+              "MLM",
+              "Dominant",
+              "Gentle Dom",
+              "LGBTQ+",
+              "English",
+              "Married Partner",
+              "Muscle",
+              "Partner",
+              "Romantic",
+              "Scenario"
+            ],
+            "title": "Cuntboy user + Duke char | Inspo: @cursed_nugget",
+            "token_count": 749,
+            "translated_languages": [
+              "de",
+              "fr",
+              "hi",
+              "zh",
+              "es",
+              "it",
+              "pt",
+              "tr",
+              "ko",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/f36914d8241ccc0625aaaa72e3522273.png",
+            "character_id": "b0eccba5-dc1a-4ea8-945e-d82fd0c5bc60",
+            "creator_user_id": "kp:18bcb8a0da744fbf9cbd70098403d504",
+            "creator_username": "mglk73",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Vladislav",
+            "num_messages": 317954,
+            "tags": [
+              "MalePOV",
+              "Omegaverse",
+              "LGBTQ+",
+              "MLM",
+              "Male",
+              "FemalePOV",
+              "English"
+            ],
+            "title": "Frail Alpha | Sick Wolf & Last Snow “Do not stay. I will kill the warmth.”",
+            "token_count": 1393,
+            "translated_languages": [
+              "ru",
+              "fr",
+              "de",
+              "hi",
+              "it",
+              "pl",
+              "zh",
+              "ar",
+              "ko",
+              "tr",
+              "es",
+              "pt",
+              "ja"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/360262ee-6674-46be-8bd9-6f26a19a80fb.webp",
+            "character_id": "f0d9a8ff-d192-4ca6-92f5-f53da66a73a3",
+            "creator_user_id": "kp:9e2246dcbe814af08a9443e9d71f19f8",
+            "creator_username": "rumycube",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Lina",
+            "num_messages": 25148,
+            "tags": [
+              "MalePOV",
+              "FemalePOV",
+              "Tsundere",
+              "Dominant",
+              "Female"
+            ],
+            "title": "High school bully ~ homeless?!",
+            "token_count": 335,
+            "translated_languages": [
+              "de",
+              "it",
+              "fr",
+              "hi",
+              "ru",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/403518d90addcb050b6235c4169c09be.jpg",
+            "character_id": "0b9ed45d-7fa7-4dfa-9675-e1a318803940",
+            "creator_user_id": "kp:cabc787f3ec84dce91e143f103784c0f",
+            "creator_username": "oilyyn",
+            "definition_size_category": "low",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Arvel Liam",
+            "num_messages": 64507,
+            "tags": [
+              "Male",
+              "Dominant",
+              "Age Play",
+              "Drama"
+            ],
+            "title": "He wants to divorce you",
+            "token_count": 440,
+            "translated_languages": [
+              "hi",
+              "de",
+              "fr",
+              "es",
+              "it",
+              "ru",
+              "tr",
+              "pl",
+              "ar",
+              "ko",
+              "ja"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/874a1e237c0fffaf22fd415f72cc89e8.jpg",
+            "character_id": "77992bec-787a-4014-a111-2d433ac635e0",
+            "creator_user_id": "kp:68b1376b00ee4b5fb9029ba6de42cb7d",
+            "creator_username": "gayparadise",
+            "definition_size_category": "mid",
+            "definition_visible": true,
+            "is_nsfw": false,
+            "name": "Damien",
+            "num_messages": 73980,
+            "rating_score": 0.883333,
+            "tags": [
+              "Male",
+              "MLM",
+              "MalePOV",
+              "Omegaverse",
+              "LGBTQ+",
+              "Gentle Dom",
+              "Wholesome"
+            ],
+            "title": "He takes care of his preg omega | mlm | omegaverse ofc | wholesome (⁠人⁠ ⁠•͈⁠ᴗ⁠•͈⁠)",
+            "token_count": 847,
+            "translated_languages": [
+              "ru",
+              "de",
+              "pl",
+              "hi",
+              "it",
+              "fr",
+              "es",
+              "tr",
+              "ar",
+              "ja"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/36e9b50888c87f453840ab1adf535150.jpg",
+            "character_id": "72dd3f80-a09c-4960-a51b-86c7dd721871",
+            "creator_user_id": "kp:bbd0eed1a1364ed48dda6bd20a84cea8",
+            "creator_username": "spooderwoman",
+            "definition_size_category": "high",
+            "definition_visible": true,
+            "has_lorebooks": false,
+            "is_nsfw": false,
+            "lora_status": "ready",
+            "name": "Elara Everett",
+            "num_messages": 165284,
+            "rating_score": 0.741497,
+            "tags": [
+              "WLW",
+              "FemalePOV",
+              "Female",
+              "Horror",
+              "LGBTQ+"
+            ],
+            "title": "Your professor is... a killer? (WLW ☆)",
+            "token_count": 1344,
+            "translated_languages": [
+              "de",
+              "hi",
+              "ru",
+              "fr",
+              "pl",
+              "es",
+              "it",
+              "tr",
+              "pt",
+              "ja",
+              "ko",
+              "zh",
+              "ar"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        },
+        {
+          "document": {
+            "avatar_is_nsfw": false,
+            "avatar_url": "avatars/cce6301da201cff2566a5eb6b531a6dd.jpg",
+            "character_id": "2e8bdb54-1aa3-4c78-9a3d-eb6380f6a970",
+            "creator_user_id": "kp:1837029d290d4100a2a2c9171066c104",
+            "creator_username": "muckyroon",
+            "definition_size_category": "minimal",
+            "definition_visible": false,
+            "is_nsfw": false,
+            "name": "Finn",
+            "num_messages": 40839,
+            "tags": [
+              "Male",
+              "LGBTQ+",
+              "MalePOV",
+              "MLM"
+            ],
+            "title": "-your bored, slightly high best friend-",
+            "token_count": 277,
+            "translated_languages": [
+              "de",
+              "fr",
+              "ar",
+              "it",
+              "ru",
+              "pl"
+            ],
+            "visibility": "public"
+          },
+          "highlight": {},
+          "text_match": 100,
+          "text_match_info": {
+            "best_field_score": "0",
+            "best_field_weight": 12,
+            "fields_matched": 4,
+            "num_tokens_dropped": 1,
+            "score": "100",
+            "tokens_matched": 0,
+            "typo_prefix_score": 255
+          }
+        }
+      ],
+      "out_of": 1220910,
+      "page": 3,
+      "request_params": {
+        "collection_name": "characters_public",
+        "first_q": "*",
+        "per_page": 48,
+        "q": "*"
+      },
+      "search_cutoff": false,
+      "search_time_ms": 205
+    }
+  ]
+}
